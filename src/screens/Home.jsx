@@ -45,8 +45,10 @@ export default function Home() {
          
         <img src={task} alt="Task" className="w-40 mb-4" />
  
-        <h1 className="text-3xl font-bold text-gray-800">
+        <h1 className="text-3xl font-bold text-gray-800 text-center">
           Task Application
+          <br />
+          Digital Technology and Innovation (DTI)
         </h1>
  
         <input type="text" placeholder="Enter Secure Code"
